@@ -208,34 +208,34 @@ msgstr ""
 #. type: Plain text
 #: en/user_basics.ssi:6
 msgid ""
-"This chapter contains a brief overview of the build process and instructions "
-"for using the three most commonly used image types. The most versatile image "
-"type, #{iso-hybrid}#, may be used on a virtual machine, optical medium or "
-"USB portable storage device. In certain special cases, as explained later, "
-"the #{hdd}# type may be more suitable. The chapter includes detailed "
-"instructions for building and using a #{netboot}# type image, which is a bit "
-"more involved due to the setup required on the server. This is an slightly "
-"advanced topic for anyone who is not already familiar with netbooting, but "
-"it is included here because once the setup is done, it is a very convenient "
-"way to test and deploy images for booting on the local network without the "
-"hassle of dealing with image media."
+"Bab ini berisi ringkasan tentang proses pembuatan dan instruksi "
+"untuk menggunakan tiga jenis image yang paling umum digunakan. Jenis Image paling serbaguna,"
+"#{iso-hybrid}#, dapat digunakan pada mesin virtual, media optik, atau "
+“Perangkat penyimpanan portabel USB. Dalam kasus khusus tertentu, seperti yang akan dijelaskan nanti,”
+"tipe #{hdd}# mungkin lebih cocok. Bab ini berisi rincian "
+"petunjuk untuk membangun dan menggunakan image jenis #{netboot}#, yang sedikit "
+"lebih terlibat karena pengaturan yang diperlukan di server. Ini sedikit "
+"topik lanjutan untuk siapa saja yang belum terbiasa dengan netbooting, tetapi "
+"disertakan di sini karena setelah penyetelan selesai, ini sangat nyaman "
+"cara untuk menguji dan menggunakan gambar untuk mem-boot di jaringan lokal tanpa "
+"kerepotan berurusan dengan media image."
 msgstr ""
 
 #. type: Plain text
 #: en/user_basics.ssi:8
 msgid ""
-"The section finishes with a quick introduction to {webbooting}#webbooting "
-"which is, perhaps, the easiest way of using different images for different "
-"purposes, switching from one to the other as needed using the internet as a "
-"means."
+"Bagian ini diakhiri dengan pengenalan cepat ke {webbooting}#webbooting "
+"yang mungkin merupakan cara termudah untuk menggunakan image yang berbeda untuk "
+"tujuan, beralih dari satu ke yang lain sesuai kebutuhan menggunakan internet sebagai "
+"cara."
 msgstr ""
 
 #. type: Plain text
 #: en/user_basics.ssi:10
 msgid ""
-"Throughout the chapter, we will often refer to the default filenames "
-"produced by live-build. If you are {downloading a prebuilt image}"
-"#downloading-prebuilt-images instead, the actual filenames may vary."
+"Sepanjang bab ini, kita akan sering mengacu pada nama file default"
+"yang diproduksi oleh live-build. Jika Anda {mengunduh image prebuilt}"
+"#downloading-prebuilt-images sebagai gantinya, nama file yang sebenarnya mungkin berbeda."
 msgstr ""
 
 #. type: Plain text
@@ -246,10 +246,10 @@ msgstr ""
 #. type: Plain text
 #: en/user_basics.ssi:14
 msgid ""
-"A live system usually means an operating system booted on a computer from a "
-"removable medium, such as a CD-ROM or USB stick, or from a network, ready to "
-"use without any installation on the usual drive(s), with auto-configuration "
-"done at run time (see {Terms}#terms)."
+"Sebuah Live sytem biasanya berarti sistem operasi yang di-boot pada komputer dari "
+"media yang dapat dilepas, seperti CD-ROM atau stik USB, atau dari jaringan, dan siap untuk "
+"gunakan tanpa instalasi apa pun pada drive biasa, dengan konfigurasi otomatis "
+"yang selesai pada waktu proses (lihat {Terms}#terms)."
 msgstr ""
 
 #. type: Plain text
